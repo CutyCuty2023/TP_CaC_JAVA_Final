@@ -1,0 +1,17 @@
+#banner-img {
+    background-repeat: no-repeat;
+    background-position: center center;
+}
+
+.border-bottom-dotted {
+    border-bottom-style: dotted !important;
+}
+
+@media (max-width: 575.90px) {
+    .container-logo {
+        width: 100%;
+        text-align: center;
+    }
+}
+
+/* Agrega más estilos según sea necesario */
